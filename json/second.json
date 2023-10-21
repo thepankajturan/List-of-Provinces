@@ -1,0 +1,53 @@
+{
+    "Alberta": {
+      "description": "Alberta is a province in western Canada known for its stunning landscapes and abundant natural resources.",
+      "cities": ["Calgary", "Edmonton", "Red Deer"],
+      "flag": "../assets/img/Flag_of_Alberta.svg"
+    },
+    "British Columbia": {
+      "description": "British Columbia is on the west coast of Canada, known for its beautiful coastline and mountainous terrain.",
+      "cities": ["Vancouver", "Victoria", "Kelowna"],
+      "flag": "../assets/img/Flag_of_British_Columbia.svg"
+    },
+    "Manitoba": {
+      "description": "Manitoba is located in the heart of Canada and is known for its rich history and diverse cultural heritage.",
+      "cities": ["Winnipeg", "Brandon", "Thompson"],
+      "flag": "../assets/img/Flag_of_Manitoba.svg"
+    },
+    "New Brunswick": {
+      "description": "New Brunswick is one of Canada's maritime provinces, known for its beautiful coastline and historic sites.",
+      "cities": ["Saint John", "Moncton", "Fredericton"],
+      "flag": "../assets/img/Flag_of_New_Brunswick.svg"
+    },
+    "Newfoundland and Labrador": {
+      "description": "Newfoundland and Labrador is Canada's easternmost province, famous for its rugged coastline and unique culture.",
+      "cities": ["St. John's", "Corner Brook", "Gander"],
+      "flag": "../assets/img/Flag_of_Newfoundland_and_Labrador.svg"
+    },
+    "Nova Scotia": {
+      "description": "Nova Scotia is known for its maritime history and stunning coastal landscapes.",
+      "cities": ["Halifax", "Sydney", "Dartmouth"],
+      "flag": "../assets/img/Flag_of_Nova_Scotia.svg"
+    },
+    "Ontario": {
+      "description": "Ontario is Canada's most populous province and is known for its diverse cities and natural beauty.",
+      "cities": ["Toronto", "Ottawa", "Hamilton"],
+      "flag": "../assets/img/Flag_of_Ontario.svg"
+    },
+    "Prince Edward Island": {
+      "description": "Prince Edward Island is Canada's smallest province and is famous for its red sand beaches and charming towns.",
+      "cities": ["Charlottetown", "Summerside", "Stratford"],
+      "flag": "../assets/img/Flag_of_Prince_Edward_Island.svg"
+    },
+    "Quebec": {
+      "description": "Quebec is the largest province in Canada and is known for its French-speaking population and rich history.",
+      "cities": ["Montreal", "Quebec City", "Laval"],
+      "flag": "../assets/img/Flag_of_Quebec.svg"
+    },
+    "Saskatchewan": {
+      "description": "Saskatchewan is located in the prairies of Canada and is known for its vast open spaces and agriculture.",
+      "cities": ["Saskatoon", "Regina", "Prince Albert"],
+      "flag": "../assets/img/Flag_of_Saskatchewan.svg"
+    }
+  }
+  

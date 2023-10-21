@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Alberta",
+        "flag": "assets/img/Flag_of_Alberta.svg"
+    },
+    {
+        "name": "British Columbia",
+        "flag": "assets/img/Flag_of_British_Columbia.svg"
+    },
+    {
+        "name": "Manitoba",
+        "flag": "assets/img/Flag_of_Manitoba.svg"
+    },
+    {
+        "name": "New Brunswick",
+        "flag": "assets/img/Flag_of_New_Brunswick.svg"
+    },
+    {
+        "name": "Newfoundland and Labrador",
+        "flag": "assets/img/Flag_of_Newfoundland_and_Labrador.svg"
+    },
+    {
+        "name": "Nova Scotia",
+        "flag": "assets/img/Flag_of_Nova_Scotia.svg"
+    },
+    {
+        "name": "Ontario",
+        "flag": "assets/img/Flag_of_Ontario.svg"
+    },
+    {
+        "name": "Prince Edward Island",
+        "flag": "assets/img/Flag_of_Prince_Edward_Island.svg"
+    },
+    {
+        "name": "Quebec",
+        "flag": "assets/img/Flag_of_Quebec.svg"
+    },
+    {
+        "name": "Saskatchewan",
+        "flag": "assets/img/Flag_of_Saskatchewan.svg"
+    }
+]
