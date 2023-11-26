@@ -44,7 +44,7 @@ function startup() {
 
            const provincesData = JSON.parse(this.responseText);
 
-           ab.innerHTML = `<a href="List-of-Provinces/pages/second.html?name=${provincesData[0].name}"><img class="flag-img" src="${provincesData[0].flag}" alt="${provincesData[0].name}" /> <br> ${provincesData[0].name}</a>`;
+           ab.innerHTML = `<a href="pages/second.html?name=${provincesData[0].name}"><img class="flag-img" src="${provincesData[0].flag}" alt="${provincesData[0].name}" /> <br> ${provincesData[0].name}</a>`;
            bc.innerHTML = `<a href="List-of-Provinces/pages/second.html?name=${provincesData[1].name}"><img class="flag-img" src="${provincesData[1].flag}" alt="${provincesData[1].name}" /> <br> ${provincesData[1].name}</a>`;
            mb.innerHTML = `<a href="List-of-Provinces/pages/second.html?name=${provincesData[2].name}"><img class="flag-img" src="${provincesData[2].flag}" alt="${provincesData[2].name}" /> <br> ${provincesData[2].name}</a>`;
            nb.innerHTML = `<a href="List-of-Provinces/pages/second.html?name=${provincesData[3].name}"><img class="flag-img" src="${provincesData[3].flag}" alt="${provincesData[3].name}" /> <br> ${provincesData[3].name}</a>`;
