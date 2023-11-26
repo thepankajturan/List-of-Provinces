@@ -38,7 +38,7 @@ function startup() {
 
         const xhr = new XMLHttpRequest();
 
-        xhr.open("GET", "../json/panpanka.json", true);
+        xhr.open("GET", "/List-of-Provinces/json/panpanka.json", true);
 
         xhr.onload = function () {
 
