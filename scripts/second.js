@@ -17,7 +17,7 @@ function startup() {
 
     function loadProvinceDetails() {
         const xhr = new XMLHttpRequest();
-        xhr.open("GET", "/thepankajturan.github.io/List-of-Provinces/json/second.json", true);
+        xhr.open("GET", "https://thepankajturan.github.io/List-of-Provinces/json/second.json", true);
         xhr.onload = function () {
             if (xhr.status == 200) {
 
